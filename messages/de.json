@@ -4,7 +4,8 @@
     "about": "Über mich",
     "pricing": "Preise",
     "contact": "Kontakt",
-    "logoSub": "Analytics & Consulting"
+    "logoSub": "Analytics & Consulting",
+    "demo": "Demo"
   },
   "hero": {
     "badge": "Wissenschaftliche Datenanalyse · Schweiz",
@@ -109,6 +110,16 @@
   "clients": {
     "label": "Geeignet für Organisationen wie",
     "items": ["Kantonale Gesundheitsämter", "Spitäler & Kliniken", "Krankenkassen", "NGOs & NPOs", "Sozialeinrichtungen", "Think Tanks", "Fachhochschulen", "Bundesämter"]
+  },
+  "demo": {
+    "tag": "Live-Demo",
+    "title": "Datenanalyse live erleben",
+    "sub": "Erkunden Sie interaktiv Gesundheitsdaten aus allen 26 Kantonen — filtern, vergleichen, Zusammenhänge entdecken.",
+    "appTitle": "Schweizer Gesundheitsanalyse",
+    "dataNote": "Beispieldaten",
+    "openFull": "Im Vollbild öffnen",
+    "loading": "App wird geladen…",
+    "footerNote": "Hinweis: Diese Demo verwendet synthetische Beispieldaten, die auf öffentlichen Referenzwerten (BFS/OBSAN) basieren und keine echten Messwerte darstellen."
   },
   "contact": {
     "tag": "Kontakt",

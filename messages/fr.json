@@ -4,7 +4,8 @@
     "about": "À propos",
     "pricing": "Tarifs",
     "contact": "Contact",
-    "logoSub": "Analytics & Conseil"
+    "logoSub": "Analytics & Conseil",
+    "demo": "Démo"
   },
   "hero": {
     "badge": "Analyse de données scientifique · Suisse",
@@ -125,6 +126,16 @@
   "clients": {
     "label": "Adapté aux organisations telles que",
     "items": ["Offices cantonaux de santé", "Hôpitaux & Cliniques", "Assureurs maladie", "ONG & OBNL", "Services sociaux", "Think Tanks", "Hautes écoles spécialisées", "Offices fédéraux"]
+  },
+  "demo": {
+    "tag": "Démo en direct",
+    "title": "Découvrez l'analyse de données en direct",
+    "sub": "Explorez interactivement les données de santé des 26 cantons — filtrez, comparez et découvrez des relations.",
+    "appTitle": "Analyse de santé suisse",
+    "dataNote": "Données d'exemple",
+    "openFull": "Ouvrir en plein écran",
+    "loading": "Chargement de l'application…",
+    "footerNote": "Remarque: Cette démo utilise des données d'exemple synthétiques basées sur des valeurs de référence publiques (OFS/OBSAN) et ne représente pas de vraies mesures."
   },
   "contact": {
     "tag": "Contact",

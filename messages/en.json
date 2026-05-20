@@ -4,7 +4,8 @@
     "about": "About",
     "pricing": "Pricing",
     "contact": "Contact",
-    "logoSub": "Analytics & Consulting"
+    "logoSub": "Analytics & Consulting",
+    "demo": "Demo"
   },
   "hero": {
     "badge": "Scientific Data Analysis · Switzerland",
@@ -126,6 +127,16 @@
   "clients": {
     "label": "Suitable for organisations such as",
     "items": ["Cantonal Health Offices", "Hospitals & Clinics", "Health Insurers", "NGOs & NPOs", "Social Services", "Think Tanks", "Universities of Applied Sciences", "Federal Agencies"]
+  },
+  "demo": {
+    "tag": "Live Demo",
+    "title": "Experience data analysis live",
+    "sub": "Interactively explore health data from all 26 cantons — filter, compare, and discover relationships.",
+    "appTitle": "Swiss Health Analysis",
+    "dataNote": "Sample data",
+    "openFull": "Open fullscreen",
+    "loading": "Loading app…",
+    "footerNote": "Note: This demo uses synthetic sample data based on public reference values (FSO/OBSAN) and does not represent real measurements."
   },
   "contact": {
     "tag": "Contact",
