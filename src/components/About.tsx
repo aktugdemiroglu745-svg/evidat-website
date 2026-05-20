@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
 
 export default function About() {
   const t = useTranslations('about');
@@ -16,13 +17,22 @@ export default function About() {
         {/* Visual side */}
         <div className="flex flex-col gap-6">
           {/* Avatar */}
-          <div className="flex justify-center lg:justify-start">
+          <div className="flex flex-col items-center lg:items-start gap-3">
             <div className="relative flex items-center justify-center w-52 h-52">
-              <div className="w-36 h-36 rounded-full flex items-center justify-center text-4xl font-bold text-white z-10"
-                   style={{ background: 'linear-gradient(135deg, #1a3a5c, #2a9d8f)' }}>
-                AD
+              <div className="w-44 h-44 rounded-full overflow-hidden border-4 border-white shadow-xl z-10 relative">
+                <Image
+                  src="/profil.jpg"
+                  alt="Aktug Demiroglu"
+                  fill
+                  className="object-cover object-top"
+                  priority
+                />
               </div>
-              <div className="absolute w-48 h-48 rounded-full border-2 border-dashed border-[#2a9d8f]/30 animate-rotate" />
+              <div className="absolute w-52 h-52 rounded-full border-2 border-dashed border-[#2a9d8f]/30 animate-rotate" />
+            </div>
+            <div className="text-center lg:text-left">
+              <p className="font-bold text-[#1a3a5c] text-lg leading-tight">Aktug Demiroglu</p>
+              <p className="text-sm text-slate-500">PhD Candidate · EviDat</p>
             </div>
           </div>
 
