@@ -39,17 +39,9 @@ export default function Pricing() {
               <p className="text-3xl font-bold mb-1 text-[#1a3a5c]">
                 {tier.price}
               </p>
-              <p className="text-sm mb-6 text-slate-500">
+              <p className="text-sm text-slate-500">
                 {tier.desc}
               </p>
-              <ul className="space-y-2.5">
-                {tier.features.map((f, j) => (
-                  <li key={j} className="flex items-start gap-2.5">
-                    <span className="mt-0.5 text-sm font-bold text-[#2a9d8f]">✓</span>
-                    <span className="text-sm text-slate-600">{f}</span>
-                  </li>
-                ))}
-              </ul>
             </div>
           ))}
         </div>
