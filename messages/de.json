@@ -30,19 +30,7 @@
         "desc": "Regressionsanalysen, Cluster-Analysen, Prediction Models — mit R auf höchstem methodischem Niveau. Inklusive verständlicher Ergebnisaufbereitung.",
         "tags": ["Regression", "Clustering", "Prediction", "R / Excel"]
       },
-      {
-        "icon": "Heart",
-        "title": "Public Health & Gesundheitsanalysen",
-        "desc": "Epidemiologische Auswertungen, Versorgungsanalysen und Wirkungsmessungen für Gesundheitsämter, Spitäler und Krankenkassen.",
-        "tags": ["Epidemiologie", "Outcome-Analyse", "Versorgung"]
-        
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Evaluation & Wirkungsmessung",
-        "desc": "Wissenschaftliche Evaluation von Programmen und Projekten für NGOs, NPOs und die öffentliche Hand — mit konkreten Handlungsempfehlungen.",
-        "tags": ["Impact Assessment", "NGO", "NPO", "Reporting"]
-      },
+      
       {
         "icon": "Search",
         "title": "Literaturrecherche & Evidenzsynthese",
@@ -62,7 +50,7 @@
     "tag": "Über mich",
     "title": "Wissenschaft trifft Praxis",
     "p1": "Ich bin Doktorand in Epidemiologie und Public Health mit einem Master in Soziologie und Politikwissenschaften. Diese Kombination ermöglicht mir, Daten nicht nur technisch zu analysieren, sondern sie in ihrem gesellschaftlichen und institutionellen Kontext zu verstehen.",
-    "p2": "Meine Stärke liegt in der Verbindung von rigoroser quantitativer Methodik mit praxisnaher Beratung. Ich liefere nicht nur Zahlen — ich liefere Antworten auf Ihre konkreten Fragen und klare Handlungsempfehlungen.",
+    "p2": "Meine Stärke liegt in der Verbindung quantitativer Methodik mit praxisnaher Beratung. Ich liefere nicht nur Zahlen — ich liefere Antworten auf Ihre konkreten Fragen und klare Handlungsempfehlungen.",
     "p3": "Ich arbeite für Organisationen, die datenbasierte Entscheidungen treffen wollen: Gesundheitsämter, Spitäler, NGOs, Sozialeinrichtungen und Forschungsinstitutionen in der ganzen Schweiz.",
     "cta": "Gespräch vereinbaren",
     "cred1Title": "PhD Epidemiologie & Public Health",
