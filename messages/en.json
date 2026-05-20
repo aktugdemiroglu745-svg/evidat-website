@@ -141,7 +141,7 @@
     "formEmail": "Email",
     "formEmailPh": "your@email.com",
     "formSubject": "Subject",
-    "formSubjectOpts": ["Statistical Analysis", "Public Health Project", "Evaluation / Impact Measurement", "Policy Analysis", "Other"],
+    "formSubjectOpts": ["Statistical Analyses", "Literature Review & Evidence Synthesis", "Data Visualisation & Reporting"],
     "formMessage": "Message",
     "formMessagePh": "Briefly describe your project or question...",
     "formSubmit": "Send message",

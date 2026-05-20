@@ -124,7 +124,7 @@
     "formEmail": "E-Mail",
     "formEmailPh": "ihre@email.ch",
     "formSubject": "Betreff",
-    "formSubjectOpts": ["Statistische Analyse", "Public Health Projekt", "Evaluation / Wirkungsmessung", "Politikanalyse", "Sonstiges"],
+    "formSubjectOpts": ["Statistische Analysen", "Literaturrecherche & Evidenzsynthese", "Datenvisualisierung & Reporting"],
     "formMessage": "Nachricht",
     "formMessagePh": "Beschreiben Sie kurz Ihr Projekt oder Ihre Frage...",
     "formSubmit": "Nachricht senden",

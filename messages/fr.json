@@ -140,7 +140,7 @@
     "formEmail": "E-mail",
     "formEmailPh": "votre@email.ch",
     "formSubject": "Sujet",
-    "formSubjectOpts": ["Analyse statistique", "Projet de santé publique", "Évaluation / Mesure d'impact", "Analyse politique", "Autre"],
+    "formSubjectOpts": ["Analyses statistiques", "Revue de littérature & synthèse des preuves", "Visualisation de données & reporting"],
     "formMessage": "Message",
     "formMessagePh": "Décrivez brièvement votre projet ou votre question...",
     "formSubmit": "Envoyer le message",
