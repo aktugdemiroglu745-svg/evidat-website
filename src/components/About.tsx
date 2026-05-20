@@ -32,7 +32,7 @@ export default function About() {
             </div>
             <div className="text-center lg:text-left">
               <p className="font-bold text-[#1a3a5c] text-lg leading-tight">Aktug Demiroglu</p>
-              <p className="text-sm text-slate-500">PhD Candidate · EviDat</p>
+              <p className="text-sm text-slate-500">PhD Candidate</p>
             </div>
           </div>
 
