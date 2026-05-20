@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "logoSub": "Analytics & Consulting"
+  },
+  "hero": {
+    "badge": "Scientific Data Analysis · Switzerland",
+    "title": "Understand data.",
+    "titleAccent": "Decide with evidence.",
+    "sub": "I help organisations in healthcare, the public sector, and social services turn data into clear, actionable insights.",
+    "cta1": "Explore services",
+    "cta2": "Book a call",
+    "stat1Label": "Epidemiology & Public Health",
+    "stat2Label": "Sociology & Political Science",
+    "stat3Label": "Statistics & Modelling",
+    "visCaption": "Evidence-Based Analysis"
+  },
+  "services": {
+    "tag": "Services",
+    "title": "What I offer",
+    "sub": "Tailored analyses for complex questions — from raw data processing to strategic recommendations.",
+    "badge": "Popular",
+    "items": [
+      {
+        "icon": "BarChart2",
+        "title": "Statistical Analyses",
+        "desc": "Regression, cluster analysis, predictive models — using R at the highest methodological standard, with clear presentation of results.",
+        "tags": ["Regression", "Clustering", "Prediction", "R / Excel"]
+      },
+      {
+        "icon": "Heart",
+        "title": "Public Health & Health Analytics",
+        "desc": "Epidemiological analyses, healthcare supply analysis and impact measurement for health departments, hospitals and insurers.",
+        "tags": ["Epidemiology", "Outcome Analysis", "Healthcare", "BAG-compliant"]
+        
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Evaluation & Impact Measurement",
+        "desc": "Scientific evaluation of programmes and projects for NGOs, NPOs and public institutions — with concrete recommendations.",
+        "tags": ["Impact Assessment", "NGO", "NPO", "Reporting"]
+      },
+      {
+        "icon": "Search",
+        "title": "Literature Review & Evidence Synthesis",
+        "desc": "Systematic literature reviews and synthesis reports as the basis for evidence-based decisions and strategy development.",
+        "tags": ["Systematic Review", "Policy Brief", "Strategy"]
+      },
+      {
+        "icon": "LineChart",
+        "title": "Data Visualisation & Reporting",
+        "desc": "Clear reports and visualisations that make complex data accessible to decision-makers without a technical background.",
+        "tags": ["R Markdown", "Excel", "Dashboards", "Reports"]
+      },
+      {
+        "icon": "Landmark",
+        "title": "Policy Impact Assessment",
+        "desc": "Data-driven analysis of policy measures and their societal effects — for cantons, think tanks and policy consultancies.",
+        "tags": ["Policy Analysis", "Social Science", "Cantons"]
+      }
+    ]
+  },
+  "about": {
+    "tag": "About",
+    "title": "Science meets practice",
+    "p1": "I am a PhD candidate in Epidemiology and Public Health with a Master's degree in Sociology and Political Science. This combination allows me not only to analyse data technically, but to understand it in its social and institutional context.",
+    "p2": "My strength lies in combining rigorous quantitative methodology with practical consulting. I don't just deliver numbers — I deliver answers to your specific questions and clear recommendations for action.",
+    "p3": "I work with organisations that want to make data-driven decisions: health offices, hospitals, NGOs, social institutions and research organisations across Switzerland.",
+    "cta": "Book a call",
+    "cred1Title": "PhD Epidemiology & Public Health",
+    "cred1Sub": "In progress",
+    "cred2Title": "Master Sociology & Political Science",
+    "cred2Sub": "Swiss University",
+    "cred3Title": "CAS Innovation Management",
+    "cred3Sub": "University of Lucerne",
+    "skills": ["Epidemiology", "Regression Analysis", "Cluster Analysis", "Prediction Models", "Public Health", "Policy Analysis", "R", "Excel", "Evidence Synthesis"]
+  },
+  "portfolio": {
+    "tag": "Portfolio",
+    "title": "Selected Projects",
+    "sub": "Anonymised case studies from practice",
+    "note": "All projects are anonymised. Further examples and references available on request.",
+    "items": [
+      {
+        "tag": "Public Health",
+        "title": "Epidemiological Analysis of Chronic Conditions",
+        "desc": "Longitudinal analysis of risk factors for chronic conditions in a population cohort. Logistic regression models and Kaplan-Meier analyses.",
+        "tech": ["R", "Survival Analysis", "Regression"]
+      },
+      {
+        "tag": "NGO Evaluation",
+        "title": "Impact Measurement of a Social Programme",
+        "desc": "Quantitative evaluation of an integration programme for a Swiss NGO. Cluster analysis of target groups, before-after comparison, results report for funders.",
+        "tech": ["R", "Cluster Analysis", "Impact Assessment"]
+      },
+      {
+        "tag": "Policy Analysis",
+        "title": "Voting Behaviour and Social Determinants",
+        "desc": "Analysis of social and demographic determinants of voting behaviour in Switzerland. Multivariate regression, visualisations, policy brief.",
+        "tech": ["R", "Multivariate Regression", "Policy Brief"]
+      }
+    ]
+  },
+  "clients": {
+    "label": "Suitable for organisations such as",
+    "items": ["Cantonal Health Offices", "Hospitals & Clinics", "Health Insurers", "NGOs & NPOs", "Social Services", "Think Tanks", "Universities of Applied Sciences", "Federal Agencies"]
+  },
+  "contact": {
+    "tag": "Contact",
+    "title": "Let's talk",
+    "sub": "Do you have a specific project or would you like to find out how I can help your organisation? I look forward to hearing from you.",
+    "location": "Switzerland · Remote available",
+    "langs": "DE · EN · FR",
+    "response": "Response within 24 hours",
+    "formName": "Name",
+    "formNamePh": "Your name",
+    "formOrg": "Organisation",
+    "formOrgPh": "Your organisation (optional)",
+    "formEmail": "Email",
+    "formEmailPh": "your@email.com",
+    "formSubject": "Subject",
+    "formSubjectOpts": ["Statistical Analysis", "Public Health Project", "Evaluation / Impact Measurement", "Policy Analysis", "Other"],
+    "formMessage": "Message",
+    "formMessagePh": "Briefly describe your project or question...",
+    "formSubmit": "Send message",
+    "formSuccess": "Thank you! I will get back to you within 24 hours."
+  },
+  "footer": {
+    "tagline": "Evidence-Based Data Analytics · Switzerland"
+  }
+}

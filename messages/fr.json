@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "À propos",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "logoSub": "Analytics & Conseil"
+  },
+  "hero": {
+    "badge": "Analyse de données scientifique · Suisse",
+    "title": "Comprendre les données.",
+    "titleAccent": "Décider avec les preuves.",
+    "sub": "J'aide les organisations du secteur de la santé, du secteur public et du domaine social à transformer leurs données en recommandations concrètes.",
+    "cta1": "Découvrir les services",
+    "cta2": "Prendre rendez-vous",
+    "stat1Label": "Épidémiologie & Santé publique",
+    "stat2Label": "Sociologie & Sciences politiques",
+    "stat3Label": "Statistiques & Modélisation",
+    "visCaption": "Analyse fondée sur les preuves"
+  },
+  "services": {
+    "tag": "Services",
+    "title": "Ce que je propose",
+    "sub": "Des analyses sur mesure pour des questions complexes — du traitement des données brutes aux recommandations stratégiques.",
+    "badge": "Populaire",
+    "items": [
+      {
+        "icon": "BarChart2",
+        "title": "Analyses statistiques",
+        "desc": "Régressions, analyses de clusters, modèles prédictifs — avec R au plus haut niveau méthodologique, avec une présentation claire des résultats.",
+        "tags": ["Régression", "Clustering", "Prédiction", "R / Excel"]
+      },
+      {
+        "icon": "Heart",
+        "title": "Santé publique & analyses de santé",
+        "desc": "Analyses épidémiologiques, analyses de l'offre de soins et mesures d'impact pour les offices de santé, hôpitaux et assureurs.",
+        "tags": ["Épidémiologie", "Analyse d'outcomes", "Soins", "Conforme OFSP"],
+        "featured": true
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Évaluation & mesure d'impact",
+        "desc": "Évaluation scientifique de programmes et projets pour ONG, OBNL et institutions publiques — avec des recommandations concrètes.",
+        "tags": ["Impact Assessment", "ONG", "OBNL", "Reporting"]
+      },
+      {
+        "icon": "Search",
+        "title": "Revue de littérature & synthèse des preuves",
+        "desc": "Revues de littérature systématiques et rapports de synthèse comme base pour des décisions fondées sur les preuves.",
+        "tags": ["Revue systématique", "Note de politique", "Stratégie"]
+      },
+      {
+        "icon": "LineChart",
+        "title": "Visualisation de données & reporting",
+        "desc": "Des rapports et visualisations clairs qui rendent les données complexes accessibles aux décideurs sans formation technique.",
+        "tags": ["R Markdown", "Excel", "Dashboards", "Rapports"]
+      },
+      {
+        "icon": "Landmark",
+        "title": "Analyse d'impact des politiques publiques",
+        "desc": "Analyse des mesures politiques et de leurs effets sociétaux — pour les cantons, les think tanks et les cabinets de conseil.",
+        "tags": ["Analyse politique", "Sciences sociales", "Cantons"]
+      }
+    ]
+  },
+  "about": {
+    "tag": "À propos",
+    "title": "La science rencontre la pratique",
+    "p1": "Je suis doctorant en épidémiologie et santé publique avec un master en sociologie et sciences politiques. Cette combinaison me permet non seulement d'analyser les données techniquement, mais de les comprendre dans leur contexte social et institutionnel.",
+    "p2": "Ma force réside dans la combinaison d'une méthodologie quantitative rigoureuse et d'un conseil pratique. Je ne livre pas seulement des chiffres — je fournis des réponses à vos questions spécifiques et des recommandations claires.",
+    "p3": "Je travaille avec des organisations qui souhaitent prendre des décisions fondées sur les données : offices de santé, hôpitaux, ONG, établissements sociaux et institutions de recherche dans toute la Suisse.",
+    "cta": "Prendre rendez-vous",
+    "cred1Title": "Doctorat Épidémiologie & Santé publique",
+    "cred1Sub": "En cours",
+    "cred2Title": "Master Sociologie & Sciences politiques",
+    "cred2Sub": "Université suisse",
+    "cred3Sub": "Programmation statistique",
+    "skills": ["Épidémiologie", "Analyse de régression", "Analyse de clusters", "Modèles prédictifs", "Santé publique", "Analyse politique", "R", "Excel", "Synthèse des preuves"]
+  },
+  "portfolio": {
+    "tag": "Portfolio",
+    "title": "Projets sélectionnés",
+    "sub": "Études de cas anonymisées",
+    "note": "Tous les projets sont anonymisés. D'autres exemples et références sur demande.",
+    "items": [
+      {
+        "tag": "Santé publique",
+        "title": "Analyse épidémiologique des maladies chroniques",
+        "desc": "Analyse longitudinale des facteurs de risque des maladies chroniques dans une cohorte. Modèles de régression logistique et analyses de Kaplan-Meier.",
+        "tech": ["R", "Analyse de survie", "Régression"]
+      },
+      {
+        "tag": "Évaluation ONG",
+        "title": "Mesure d'impact d'un programme social",
+        "desc": "Évaluation quantitative d'un programme d'intégration pour une ONG suisse. Analyse de clusters des groupes cibles, comparaison avant-après, rapport pour les bailleurs.",
+        "tech": ["R", "Analyse de clusters", "Impact Assessment"]
+      },
+      {
+        "tag": "Analyse politique",
+        "title": "Comportement électoral et déterminants sociaux",
+        "desc": "Analyse des déterminants sociaux et démographiques du comportement lors des votations en Suisse. Régression multivariée, visualisations, note de politique.",
+        "tech": ["R", "Régression multivariée", "Note de politique"]
+      }
+    ]
+  },
+  "clients": {
+    "label": "Adapté aux organisations telles que",
+    "items": ["Offices cantonaux de santé", "Hôpitaux & Cliniques", "Assureurs maladie", "ONG & OBNL", "Services sociaux", "Think Tanks", "Hautes écoles spécialisées", "Offices fédéraux"]
+  },
+  "contact": {
+    "tag": "Contact",
+    "title": "Parlons-en",
+    "sub": "Avez-vous un projet concret ou souhaitez-vous savoir comment je peux aider votre organisation? Je me réjouis de votre message.",
+    "location": "Suisse · Travail à distance possible",
+    "langs": "DE · EN · FR",
+    "response": "Réponse dans les 24 heures",
+    "formName": "Nom",
+    "formNamePh": "Votre nom",
+    "formOrg": "Organisation",
+    "formOrgPh": "Votre organisation (optionnel)",
+    "formEmail": "E-mail",
+    "formEmailPh": "votre@email.ch",
+    "formSubject": "Sujet",
+    "formSubjectOpts": ["Analyse statistique", "Projet de santé publique", "Évaluation / Mesure d'impact", "Analyse politique", "Autre"],
+    "formMessage": "Message",
+    "formMessagePh": "Décrivez brièvement votre projet ou votre question...",
+    "formSubmit": "Envoyer le message",
+    "formSuccess": "Merci beaucoup! Je vous répondrai dans les 24 heures."
+  },
+  "footer": {
+    "tagline": "Analyse de données fondée sur les preuves · Suisse"
+  }
+}
