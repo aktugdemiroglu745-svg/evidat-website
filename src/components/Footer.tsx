@@ -7,7 +7,7 @@ export default function Footer() {
   const links = [
     { href: '#services',  label: tNav('services') },
     { href: '#about',     label: tNav('about') },
-    { href: '#portfolio', label: tNav('portfolio') },
+    { href: '#pricing',   label: tNav('pricing') },
     { href: '#contact',   label: tNav('contact') },
   ];
 

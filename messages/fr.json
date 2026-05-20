@@ -2,7 +2,7 @@
   "nav": {
     "services": "Services",
     "about": "À propos",
-    "portfolio": "Portfolio",
+    "pricing": "Tarifs",
     "contact": "Contact",
     "logoSub": "Analytics & Conseil"
   },
@@ -77,29 +77,48 @@
     "cred3Sub": "Programmation statistique",
     "skills": ["Épidémiologie", "Analyse de régression", "Analyse de clusters", "Modèles prédictifs", "Santé publique", "Analyse politique", "R", "Excel", "Synthèse des preuves"]
   },
-  "portfolio": {
-    "tag": "Portfolio",
-    "title": "Projets sélectionnés",
-    "sub": "Études de cas anonymisées",
-    "note": "Tous les projets sont anonymisés. D'autres exemples et références sur demande.",
-    "items": [
+  "pricing": {
+    "tag": "Tarifs",
+    "title": "Tarification transparente",
+    "sub": "Je crois en l'accessibilité de l'analyse de données — pour toutes les organisations, quelle que soit leur taille.",
+    "proBonoTitle": "Pro Bono & Bénévolat",
+    "proBonoDesc": "Pour les ONG et organisations à but non lucratif, je travaille aussi gratuitement — en contrepartie, je peux vous mentionner comme référence sur mon site. Contactez-moi simplement.",
+    "popular": "Recommandé",
+    "note": "Tous les prix sont des taux horaires hors TVA. Forfaits projet disponibles sur demande. Premier entretien (30 min.) toujours gratuit.",
+    "tiers": [
       {
-        "tag": "Santé publique",
-        "title": "Analyse épidémiologique des maladies chroniques",
-        "desc": "Analyse longitudinale des facteurs de risque des maladies chroniques dans une cohorte. Modèles de régression logistique et analyses de Kaplan-Meier.",
-        "tech": ["R", "Analyse de survie", "Régression"]
+        "label": "ONG & OBNL",
+        "price": "Vous décidez",
+        "desc": "Vous choisissez ce que vous pouvez vous permettre.",
+        "features": [
+          "Gamme complète de services",
+          "Pas de tarif minimum",
+          "Communication transparente",
+          "Rapports d'impact pour les bailleurs"
+        ]
       },
       {
-        "tag": "Évaluation ONG",
-        "title": "Mesure d'impact d'un programme social",
-        "desc": "Évaluation quantitative d'un programme d'intégration pour une ONG suisse. Analyse de clusters des groupes cibles, comparaison avant-après, rapport pour les bailleurs.",
-        "tech": ["R", "Analyse de clusters", "Impact Assessment"]
+        "label": "Secteur public",
+        "price": "CHF 80 – 120/h",
+        "desc": "Tarif social pour les cantons et communes.",
+        "features": [
+          "Toutes les analyses statistiques",
+          "Analyse de l'offre de soins",
+          "Analyse d'impact des politiques",
+          "Rapports"
+        ],
+        "highlight": true
       },
       {
-        "tag": "Analyse politique",
-        "title": "Comportement électoral et déterminants sociaux",
-        "desc": "Analyse des déterminants sociaux et démographiques du comportement lors des votations en Suisse. Régression multivariée, visualisations, note de politique.",
-        "tech": ["R", "Régression multivariée", "Note de politique"]
+        "label": "Secteur privé",
+        "price": "CHF 120 – 180/h",
+        "desc": "Délibérément en dessous du prix du marché.",
+        "features": [
+          "Toutes les analyses statistiques",
+          "Modèles prédictifs",
+          "Visualisation de données",
+          "Recommandations concrètes"
+        ]
       }
     ]
   },

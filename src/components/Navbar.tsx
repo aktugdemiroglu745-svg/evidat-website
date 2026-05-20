@@ -27,7 +27,7 @@ export default function Navbar() {
   const navLinks = [
     { href: '#services', label: t('services') },
     { href: '#about',    label: t('about') },
-    { href: '#portfolio',label: t('portfolio') },
+    { href: '#pricing',  label: t('pricing') },
   ];
 
   return (

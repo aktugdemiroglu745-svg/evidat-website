@@ -2,7 +2,7 @@
   "nav": {
     "services": "Services",
     "about": "About",
-    "portfolio": "Portfolio",
+    "pricing": "Pricing",
     "contact": "Contact",
     "logoSub": "Analytics & Consulting"
   },
@@ -78,29 +78,48 @@
     "cred3Sub": "University of Lucerne",
     "skills": ["Epidemiology", "Regression Analysis", "Cluster Analysis", "Prediction Models", "Public Health", "Policy Analysis", "R", "Excel", "Evidence Synthesis"]
   },
-  "portfolio": {
-    "tag": "Portfolio",
-    "title": "Selected Projects",
-    "sub": "Anonymised case studies from practice",
-    "note": "All projects are anonymised. Further examples and references available on request.",
-    "items": [
+  "pricing": {
+    "tag": "Pricing",
+    "title": "Transparent Pricing",
+    "sub": "I believe in accessible data analysis — for all organisations, regardless of size.",
+    "proBonoTitle": "Pro Bono & Non-Profit",
+    "proBonoDesc": "For NGOs and non-profit organisations, I also work for free — in return, I may mention you as a reference on my website. Simply get in touch.",
+    "popular": "Recommended",
+    "note": "All prices are hourly rates excluding VAT. Project flat rates available on request. First consultation (30 min.) always free.",
+    "tiers": [
       {
-        "tag": "Public Health",
-        "title": "Epidemiological Analysis of Chronic Conditions",
-        "desc": "Longitudinal analysis of risk factors for chronic conditions in a population cohort. Logistic regression models and Kaplan-Meier analyses.",
-        "tech": ["R", "Survival Analysis", "Regression"]
+        "label": "NGOs & NPOs",
+        "price": "You decide",
+        "desc": "You choose what you can afford.",
+        "features": [
+          "Full range of services",
+          "No minimum rate",
+          "Transparent communication",
+          "Impact reports for funders"
+        ]
       },
       {
-        "tag": "NGO Evaluation",
-        "title": "Impact Measurement of a Social Programme",
-        "desc": "Quantitative evaluation of an integration programme for a Swiss NGO. Cluster analysis of target groups, before-after comparison, results report for funders.",
-        "tech": ["R", "Cluster Analysis", "Impact Assessment"]
+        "label": "Public Sector",
+        "price": "CHF 80 – 120/h",
+        "desc": "Social discount for cantons and municipalities.",
+        "features": [
+          "All statistical analyses",
+          "Healthcare supply analysis",
+          "Policy impact assessment",
+          "Reporting"
+        ],
+        "highlight": true
       },
       {
-        "tag": "Policy Analysis",
-        "title": "Voting Behaviour and Social Determinants",
-        "desc": "Analysis of social and demographic determinants of voting behaviour in Switzerland. Multivariate regression, visualisations, policy brief.",
-        "tech": ["R", "Multivariate Regression", "Policy Brief"]
+        "label": "Private Sector",
+        "price": "CHF 120 – 180/h",
+        "desc": "Deliberately below market rate.",
+        "features": [
+          "All statistical analyses",
+          "Predictive models",
+          "Data visualisation",
+          "Actionable recommendations"
+        ]
       }
     ]
   },

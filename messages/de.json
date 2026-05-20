@@ -2,7 +2,7 @@
   "nav": {
     "services": "Leistungen",
     "about": "Über mich",
-    "portfolio": "Portfolio",
+    "pricing": "Preise",
     "contact": "Kontakt",
     "logoSub": "Analytics & Consulting"
   },
@@ -73,29 +73,48 @@
     "cred3Sub": "Universität Luzern",
     "skills": ["Epidemiologie", "Regressionsanalyse", "Cluster-Analyse", "Prediction Models", "Public Health", "Politikanalyse", "R", "Excel", "Evidenzsynthese"]
   },
-  "portfolio": {
-    "tag": "Portfolio",
-    "title": "Ausgewählte Projekte",
-    "sub": "Anonymisierte Fallbeispiele aus der Praxis",
-    "note": "Alle Projekte sind anonymisiert. Weitere Beispiele und Referenzen auf Anfrage.",
-    "items": [
+  "pricing": {
+    "tag": "Preise",
+    "title": "Transparente Preisgestaltung",
+    "sub": "Ich glaube an zugängliche Datenanalyse — für alle Organisationen, unabhängig von ihrer Grösse.",
+    "proBonoTitle": "Pro Bono & Gemeinnützig",
+    "proBonoDesc": "Für NGOs und gemeinnützige Organisationen arbeite ich auch kostenlos — im Gegenzug darf ich Sie als Referenz auf meiner Website erwähnen. Nehmen Sie einfach Kontakt auf.",
+    "popular": "Empfohlen",
+    "note": "Alle Preise sind Stundenansätze ohne MwSt. Projektpauschalen auf Anfrage möglich. Erstes Beratungsgespräch (30 Min.) immer kostenlos.",
+    "tiers": [
       {
-        "tag": "Public Health",
-        "title": "Epidemiologische Analyse chronischer Erkrankungen",
-        "desc": "Längsschnittanalyse von Risikofaktoren für chronische Erkrankungen in einer Bevölkerungskohorte. Logistische Regressionsmodelle und Kaplan-Meier-Analysen.",
-        "tech": ["R", "Survival Analysis", "Regression"]
+        "label": "NGOs & NPOs",
+        "price": "Selbst bestimmen",
+        "desc": "Sie entscheiden, was Sie zahlen können.",
+        "features": [
+          "Voller Leistungsumfang",
+          "Kein Mindesttarif",
+          "Transparente Kommunikation",
+          "Wirkungsberichte für Geldgeber"
+        ]
       },
       {
-        "tag": "NGO Evaluation",
-        "title": "Wirkungsmessung eines Sozialprogramms",
-        "desc": "Quantitative Evaluation eines Integrationsprogramms für eine Schweizer NGO. Cluster-Analyse der Zielgruppen, Vorher-Nachher-Vergleich, Ergebnisbericht für Geldgeber.",
-        "tech": ["R", "Cluster-Analyse", "Impact Assessment"]
+        "label": "Öffentliche Hand",
+        "price": "80 – 120 CHF/h",
+        "desc": "Sozialrabatt für Kantone und Gemeinden.",
+        "features": [
+          "Alle statistischen Analysen",
+          "Versorgungsanalysen",
+          "Politikfolgenabschätzung",
+          "Berichterstattung"
+        ],
+        "highlight": true
       },
       {
-        "tag": "Politikanalyse",
-        "title": "Abstimmungsverhalten und soziale Determinanten",
-        "desc": "Analyse der sozialen und demografischen Determinanten des Abstimmungsverhaltens in der Schweiz. Multivariate Regression, Visualisierungen, Policy Brief.",
-        "tech": ["R", "Multivariate Regression", "Policy Brief"]
+        "label": "Privatwirtschaft",
+        "price": "120 – 180 CHF/h",
+        "desc": "Bewusst günstig unter Marktpreis.",
+        "features": [
+          "Alle statistischen Analysen",
+          "Prädiktive Modelle",
+          "Datenvisualisierung",
+          "Handlungsempfehlungen"
+        ]
       }
     ]
   },
