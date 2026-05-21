@@ -24,18 +24,20 @@ export default function Navbar() {
     router.replace(pathname, { locale: newLocale });
   };
 
+  const isHome = pathname === '/';
+
   const navLinks = [
-    { href: '#services', label: t('services') },
-    { href: '#demo',     label: t('demo') },
-    { href: '#about',    label: t('about') },
-    { href: '#pricing',  label: t('pricing') },
+    { href: isHome ? '#services' : '/#services', label: t('services') },
+    { href: isHome ? '#demo'     : '/#demo',     label: t('demo') },
+    { href: isHome ? '#about'    : '/#about',    label: t('about') },
+    { href: isHome ? '#pricing'  : '/#pricing',  label: t('pricing') },
   ];
 
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-b border-slate-200 transition-shadow duration-300 ${scrolled ? 'shadow-md' : ''}`}>
       <div className="max-w-6xl mx-auto px-6 h-[72px] flex items-center gap-8">
         {/* Logo */}
-        <a href="#home" className="flex flex-col leading-tight mr-auto">
+        <a href={isHome ? '#home' : '/'} className="flex flex-col leading-tight mr-auto">
           <span className="text-xl font-bold text-[#1a3a5c] tracking-tight">EviDat</span>
           <span className="text-[0.65rem] text-slate-500 uppercase tracking-wide">{t('logoSub')}</span>
         </a>
@@ -48,7 +50,7 @@ export default function Navbar() {
               {l.label}
             </a>
           ))}
-          <a href="#contact"
+          <a href={isHome ? '#contact' : '/#contact'}
              className="ml-2 px-4 py-2 bg-[#1a3a5c] text-white text-sm font-semibold rounded-lg hover:bg-[#2d5986] transition-colors">
             {t('contact')}
           </a>
@@ -82,7 +84,7 @@ export default function Navbar() {
               {l.label}
             </a>
           ))}
-          <a href="#contact" onClick={() => setMobileOpen(false)}
+          <a href={isHome ? '#contact' : '/#contact'} onClick={() => setMobileOpen(false)}
              className="py-2.5 px-3 font-medium text-slate-700 hover:bg-slate-50 rounded-lg">
             {t('contact')}
           </a>
