@@ -9,7 +9,7 @@ const content = {
     impItems: [
       { label: 'Name',       value: 'Aktug Demiroglu' },
       { label: 'Tätigkeit',  value: 'Freiberuflicher Datenanalytiker & Berater' },
-      { label: 'Adresse',    value: '[Strasse & Nr., PLZ Ort]' },   // ← bitte ausfüllen
+      { label: 'Adresse',    value: 'Rosengartenstrasse 6, 8037 Zürich' },
       { label: 'E-Mail',     value: 'kontakt@evidat.ch' },
       { label: 'Sprachen',   value: 'Deutsch · Englisch · Französisch' },
     ],
@@ -55,7 +55,7 @@ const content = {
     impItems: [
       { label: 'Name',       value: 'Aktug Demiroglu' },
       { label: 'Occupation', value: 'Freelance Data Analyst & Consultant' },
-      { label: 'Address',    value: '[Street & No., ZIP City]' },   // ← please fill in
+      { label: 'Address',    value: 'Rosengartenstrasse 6, 8037 Zurich' },
       { label: 'Email',      value: 'kontakt@evidat.ch' },
       { label: 'Languages',  value: 'German · English · French' },
     ],
@@ -101,7 +101,7 @@ const content = {
     impItems: [
       { label: 'Nom',        value: 'Aktug Demiroglu' },
       { label: 'Activité',   value: 'Analyste de données & Consultant indépendant' },
-      { label: 'Adresse',    value: '[Rue & N°, NPA Localité]' },   // ← à compléter
+      { label: 'Adresse',    value: 'Rosengartenstrasse 6, 8037 Zurich' },
       { label: 'E-mail',     value: 'kontakt@evidat.ch' },
       { label: 'Langues',    value: 'Allemand · Anglais · Français' },
     ],
