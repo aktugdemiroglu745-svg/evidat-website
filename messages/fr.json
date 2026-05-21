@@ -158,6 +158,7 @@
     "formSuccess": "Merci beaucoup! Je vous répondrai dans les 24 heures."
   },
   "footer": {
-    "tagline": "Analyse de données fondée sur les preuves · Suisse"
+    "tagline": "Analyse de données fondée sur les preuves · Suisse",
+    "legal": "Mentions légales & Confidentialité"
   }
 }

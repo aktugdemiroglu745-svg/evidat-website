@@ -159,6 +159,7 @@
     "formSuccess": "Thank you! I will get back to you within 24 hours."
   },
   "footer": {
-    "tagline": "Evidence-Based Data Analytics · Switzerland"
+    "tagline": "Evidence-Based Data Analytics · Switzerland",
+    "legal": "Legal Notice & Privacy"
   }
 }

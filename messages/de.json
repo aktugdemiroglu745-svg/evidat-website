@@ -142,6 +142,7 @@
     "formSuccess": "Vielen Dank! Ich melde mich innerhalb von 24 Stunden."
   },
   "footer": {
-    "tagline": "Evidence-Based Data Analytics · Schweiz"
+    "tagline": "Evidence-Based Data Analytics · Schweiz",
+    "legal": "Impressum & Datenschutz"
   }
 }

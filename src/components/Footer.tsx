@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/navigation';
 
 export default function Footer() {
   const tNav = useTranslations('nav');
@@ -10,6 +11,8 @@ export default function Footer() {
     { href: '#pricing',   label: tNav('pricing') },
     { href: '#contact',   label: tNav('contact') },
   ];
+
+  const legalLabel = tFooter('legal');
 
   return (
     <footer className="bg-[#0a1f35] py-10">
@@ -26,7 +29,13 @@ export default function Footer() {
             </a>
           ))}
         </div>
-        <p className="text-xs text-white/30">© {new Date().getFullYear()} EviDat Analytics</p>
+        <div className="flex items-center gap-6">
+          <Link href="/impressum"
+                className="text-xs text-white/30 hover:text-white/70 transition-colors underline underline-offset-2">
+            {legalLabel}
+          </Link>
+          <p className="text-xs text-white/30">© {new Date().getFullYear()} EviDat Analytics</p>
+        </div>
       </div>
     </footer>
   );
