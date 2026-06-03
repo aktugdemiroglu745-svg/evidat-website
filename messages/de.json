@@ -69,7 +69,7 @@
     "proBonoTitle": "Pro Bono & Gemeinnützig",
     "proBonoDesc": "Für NGOs und gemeinnützige Organisationen arbeite ich auch kostenlos — im Gegenzug darf ich Sie als Referenz auf meiner Website erwähnen. Nehmen Sie einfach Kontakt auf.",
     "popular": "Empfohlen",
-    "note": "Alle Preise sind Stundenansätze ohne MwSt. Projektpauschalen auf Anfrage möglich. Erstes Beratungsgespräch (30 Min.) immer kostenlos.",
+    "note": "Alle Preise sind Stundenansätze ohne MwSt. Projektpauschalen auf Anfrage möglich. Erstes Beratungsgespräch (60 Min.) immer kostenlos.",
     "tiers": [
       {
         "label": "NGOs & NPOs",
@@ -84,7 +84,7 @@
       },
       {
         "label": "Öffentliche Hand",
-        "price": "80 – 120 CHF/h",
+        "price": "80 CHF/h",
         "desc": "Vergünstigter Preis für Kantone und Gemeinden.",
         "features": [
           "Alle statistischen Analysen",
@@ -96,7 +96,7 @@
       },
       {
         "label": "Privatwirtschaft",
-        "price": "120 – 180 CHF/h",
+        "price": "100 CHF/h",
         "desc": "Bewusst günstig unter Marktpreis.",
         "features": [
           "Alle statistischen Analysen",

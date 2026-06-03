@@ -85,7 +85,7 @@
     "proBonoTitle": "Pro Bono & Bénévolat",
     "proBonoDesc": "Pour les ONG et organisations à but non lucratif, je travaille aussi gratuitement — en contrepartie, je peux vous mentionner comme référence sur mon site. Contactez-moi simplement.",
     "popular": "Recommandé",
-    "note": "Tous les prix sont des taux horaires hors TVA. Forfaits projet disponibles sur demande. Premier entretien (30 min.) toujours gratuit.",
+    "note": "Tous les prix sont des taux horaires hors TVA. Forfaits projet disponibles sur demande. Premier entretien (60 min.) toujours gratuit.",
     "tiers": [
       {
         "label": "ONG & OBNL",
@@ -100,7 +100,7 @@
       },
       {
         "label": "Secteur public",
-        "price": "CHF 80 – 120/h",
+        "price": "CHF 80/h",
         "desc": "Tarif social pour les cantons et communes.",
         "features": [
           "Toutes les analyses statistiques",
@@ -112,7 +112,7 @@
       },
       {
         "label": "Secteur privé",
-        "price": "CHF 120 – 180/h",
+        "price": "CHF 100/h",
         "desc": "Délibérément en dessous du prix du marché.",
         "features": [
           "Toutes les analyses statistiques",
