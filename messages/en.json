@@ -32,19 +32,6 @@
         "tags": ["Regression", "Clustering", "Prediction", "R / Excel"]
       },
       {
-        "icon": "Heart",
-        "title": "Public Health & Health Analytics",
-        "desc": "Epidemiological analyses, healthcare supply analysis and impact measurement for health departments, hospitals and insurers.",
-        "tags": ["Epidemiology", "Outcome Analysis", "Healthcare", "BAG-compliant"]
-        
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Evaluation & Impact Measurement",
-        "desc": "Scientific evaluation of programmes and projects for NGOs, NPOs and public institutions — with concrete recommendations.",
-        "tags": ["Impact Assessment", "NGO", "NPO", "Reporting"]
-      },
-      {
         "icon": "Search",
         "title": "Literature Review & Evidence Synthesis",
         "desc": "Systematic literature reviews and synthesis reports as the basis for evidence-based decisions and strategy development.",
@@ -55,12 +42,6 @@
         "title": "Data Visualisation & Reporting",
         "desc": "Clear reports and visualisations that make complex data accessible to decision-makers without a technical background.",
         "tags": ["R Markdown", "Excel", "Dashboards", "Reports"]
-      },
-      {
-        "icon": "Landmark",
-        "title": "Policy Impact Assessment",
-        "desc": "Data-driven analysis of policy measures and their societal effects — for cantons, think tanks and policy consultancies.",
-        "tags": ["Policy Analysis", "Social Science", "Cantons"]
       }
     ]
   },
@@ -74,7 +55,7 @@
     "cred1Title": "PhD Epidemiology & Public Health",
     "cred1Sub": "In progress",
     "cred2Title": "Master Sociology & Political Science",
-    "cred2Sub": "Swiss University",
+    "cred2Sub": "University of Zurich",
     "cred3Title": "CAS Innovation Management",
     "cred3Sub": "University of Lucerne",
     "skills": ["Epidemiology", "Regression Analysis", "Cluster Analysis", "Prediction Models", "Public Health", "Policy Analysis", "R", "Excel", "Evidence Synthesis"]

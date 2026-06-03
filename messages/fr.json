@@ -32,19 +32,6 @@
         "tags": ["Régression", "Clustering", "Prédiction", "R / Excel"]
       },
       {
-        "icon": "Heart",
-        "title": "Santé publique & analyses de santé",
-        "desc": "Analyses épidémiologiques, analyses de l'offre de soins et mesures d'impact pour les offices de santé, hôpitaux et assureurs.",
-        "tags": ["Épidémiologie", "Analyse d'outcomes", "Soins", "Conforme OFSP"],
-        "featured": true
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Évaluation & mesure d'impact",
-        "desc": "Évaluation scientifique de programmes et projets pour ONG, OBNL et institutions publiques — avec des recommandations concrètes.",
-        "tags": ["Impact Assessment", "ONG", "OBNL", "Reporting"]
-      },
-      {
         "icon": "Search",
         "title": "Revue de littérature & synthèse des preuves",
         "desc": "Revues de littérature systématiques et rapports de synthèse comme base pour des décisions fondées sur les preuves.",
@@ -55,12 +42,6 @@
         "title": "Visualisation de données & reporting",
         "desc": "Des rapports et visualisations clairs qui rendent les données complexes accessibles aux décideurs sans formation technique.",
         "tags": ["R Markdown", "Excel", "Dashboards", "Rapports"]
-      },
-      {
-        "icon": "Landmark",
-        "title": "Analyse d'impact des politiques publiques",
-        "desc": "Analyse des mesures politiques et de leurs effets sociétaux — pour les cantons, les think tanks et les cabinets de conseil.",
-        "tags": ["Analyse politique", "Sciences sociales", "Cantons"]
       }
     ]
   },
@@ -74,8 +55,9 @@
     "cred1Title": "Doctorat Épidémiologie & Santé publique",
     "cred1Sub": "En cours",
     "cred2Title": "Master Sociologie & Sciences politiques",
-    "cred2Sub": "Université suisse",
-    "cred3Sub": "Programmation statistique",
+    "cred2Sub": "Université de Zurich",
+    "cred3Title": "CAS Gestion de l'innovation",
+    "cred3Sub": "Université de Lucerne",
     "skills": ["Épidémiologie", "Analyse de régression", "Analyse de clusters", "Modèles prédictifs", "Santé publique", "Analyse politique", "R", "Excel", "Synthèse des preuves"]
   },
   "pricing": {
